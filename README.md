@@ -1,6 +1,8 @@
 # dotfiles
 My dotfiles, Hyprland 
 
+[中文](https://github.com/safe049/dotfiles/README.md#dotfiles[zh])
+
 # installation
 1. install following package:
 
@@ -16,7 +18,7 @@ This dotfile is configured to use in AMDGPU and Arch Linux,you might need to tun
 
 ---------------------------------------------------------------------------------------------------------------
 
-# dotfiles
+# dotfiles[zh]
 我的Hyprland Dotfiles
 
 # 安装
