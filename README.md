@@ -1,7 +1,7 @@
 # dotfiles
 My dotfiles, Hyprland 
 
-[中文](https://github.com/safe049/dotfiles/README.md#dotfiles[zh])
+[中文](https://github.com/safe049/dotfiles/#dotfileszh)
 
 # installation
 1. install following package:
